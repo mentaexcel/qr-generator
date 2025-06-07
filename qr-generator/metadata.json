@@ -1,0 +1,6 @@
+{
+  "name": "QRコードジェネレーター",
+  "description": "URLからQRコードを生成するシンプルなウェブアプリケーションです。",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
